@@ -7,4 +7,6 @@ Another way would be to copy the file into *My Documents\NinjaTrader 8\bin\Custo
 
 It should be able to compile and be usable. 
 
+More detailed installation instructions can be found in [the wiki](https://github.com/neilmcguire/ninjatrader8/wiki/Installing-the-SMACD-Indicator)
+
 Feel free to create issues if you find them.
